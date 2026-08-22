@@ -26,5 +26,17 @@
     <itunes:type>episodic</itunes:type>
 
     
+    <item>
+      <title>LetterTranscriber: reading 1930s handwriting with AI (preview)</title>
+      <description>A two-minute preview: how a Flask app turns scanned Norwegian letters from the 1920s and 30s into corrected, annotated transcripts using Gemini.</description>
+      <pubDate>Sat, 22 Aug 2026 06:06:06 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-22-lettertranscriber-deep-dive-preview.mp3"
+                 length="2487212"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-22-lettertranscriber-deep-dive-preview.mp3</guid>
+      <itunes:duration>2:35</itunes:duration>
+      <itunes:summary>A two-minute preview: how a Flask app turns scanned Norwegian letters from the 1920s and 30s into corrected, annotated transcripts using Gemini.</itunes:summary>
+    </item>
+    
   </channel>
 </rss>
