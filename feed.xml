@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AJ's Podcast</title>
+    <link>https://jutudey.github.io/test-rss</link>
+    <description>Deep dives on whatever I feed it — two AI hosts, one conversation.</description>
+    <language>en</language>
+    <atom:link href="https://jutudey.github.io/test-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://jutudey.github.io/test-rss/cover-art.png</url>
+      <title>AJ's Podcast</title>
+      <link>https://jutudey.github.io/test-rss</link>
+    </image>
+    <itunes:image href="https://jutudey.github.io/test-rss/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>AJ's Podcast</itunes:author>
+    <itunes:summary>Deep dives on whatever I feed it — two AI hosts, one conversation.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    
+  </channel>
+</rss>
