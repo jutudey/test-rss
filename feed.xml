@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>Decision Paralysis: When Freedom Becomes a Curse</title>
+      <description>Two hosts unpack a Norwegian article where a professor calls decision avoidance a public health problem. The paradox of choice, the psychological immune system, pre-mortems, and why sitting still in the boat is not a neutral position.</description>
+      <pubDate>Sat, 22 Aug 2026 08:03:06 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-22-decision-paralysis.mp3"
+                 length="14036012"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-22-decision-paralysis.mp3</guid>
+      <itunes:duration>14:37</itunes:duration>
+      <itunes:summary>Two hosts unpack a Norwegian article where a professor calls decision avoidance a public health problem. The paradox of choice, the psychological immune system, pre-mortems, and why sitting still in the boat is not a neutral position.</itunes:summary>
+    </item>
+    
+    <item>
       <title>LetterTranscriber: reading 1930s handwriting with AI (preview)</title>
       <description>A two-minute preview: how a Flask app turns scanned Norwegian letters from the 1920s and 30s into corrected, annotated transcripts using Gemini.</description>
       <pubDate>Sat, 22 Aug 2026 06:06:06 GMT</pubDate>
