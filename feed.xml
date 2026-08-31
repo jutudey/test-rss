@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>Open Informatics part three: down to the metal</title>
+      <description>The hardware side of Open Informatics at CTU Prague, taken from the actual lab sheets. The RISC-V based Computer Architectures course every student takes, the faculty-built MZ_APO board and its two-player Snake semester project, then the Internet of Things chain: electromagnetism, FPGA design in VHDL, real network equipment, ARM microcontrollers, and a steer-by-wire capstone on a real-time operating system.</description>
+      <pubDate>Mon, 31 Aug 2026 08:59:36 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-31-oi-prague-hardware-and-labs.mp3"
+                 length="10557356"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-31-oi-prague-hardware-and-labs.mp3</guid>
+      <itunes:duration>10:59</itunes:duration>
+      <itunes:summary>The hardware side of Open Informatics at CTU Prague, taken from the actual lab sheets. The RISC-V based Computer Architectures course every student takes, the faculty-built MZ_APO board and its two-player Snake semester project, then the Internet of Things chain: electromagnetism, FPGA design in VHDL, real network equipment, ARM microcontrollers, and a steer-by-wire capstone on a real-time operating system.</itunes:summary>
+    </item>
+    
+    <item>
       <title>Open Informatics part two: the minor specialisations</title>
       <description>The flexibility half of the Open Informatics bachelor at CTU Prague. How minors work (three courses, no registration, printed on your diploma), all seven in-house minors from Artificial Intelligence to Mathematics, and the inter-university prg.ai Minor that spans four faculties at two universities.</description>
       <pubDate>Mon, 31 Aug 2026 06:41:18 GMT</pubDate>
