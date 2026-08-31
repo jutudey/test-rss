@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>SDD ep 2: The AI Unified Process in a Nutshell</title>
+      <description>Chapter 2 of Simon Martinelli's Spec-Driven Development. The five principles, the three core artifacts and their ID schemes, user stories versus system use cases, how everything is stored in Git, the traceability chain, the five-step life cycle, and why the approach only became practical recently.</description>
+      <pubDate>Mon, 31 Aug 2026 13:11:24 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-31-sdd-ep-2-the-ai-unified-process-in-a-nutshell.mp3"
+                 length="12530348"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-31-sdd-ep-2-the-ai-unified-process-in-a-nutshell.mp3</guid>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>Chapter 2 of Simon Martinelli's Spec-Driven Development. The five principles, the three core artifacts and their ID schemes, user stories versus system use cases, how everything is stored in Git, the traceability chain, the five-step life cycle, and why the approach only became practical recently.</itunes:summary>
+    </item>
+    
+    <item>
       <title>SDD ep 1: Why Spec-Driven Development?</title>
       <description>Chapter 1 of Simon Martinelli's Spec-Driven Development, taught rather than discussed. Balcony architecture, the problem with code-first, what a specification contract is, the three artifacts of the AI Unified Process, the six benefits, and the three standard objections.</description>
       <pubDate>Mon, 31 Aug 2026 13:03:17 GMT</pubDate>
