@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>From radio waves to self-steering cars</title>
+      <description>Part two of the plain-language hardware series. What a transistor is and why everything is made of them, how students design their own chip on a blank one, why a logically correct circuit still fails, the ladder from blinking a light to a measurement instrument, and what real-time really means - ending on a car that steers entirely by software.</description>
+      <pubDate>Mon, 31 Aug 2026 09:32:00 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-31-from-radio-waves-to-self-steering-cars.mp3"
+                 length="12373676"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-31-from-radio-waves-to-self-steering-cars.mp3</guid>
+      <itunes:duration>12:53</itunes:duration>
+      <itunes:summary>Part two of the plain-language hardware series. What a transistor is and why everything is made of them, how students design their own chip on a blank one, why a logically correct circuit still fails, the ladder from blinking a light to a measurement instrument, and what real-time really means - ending on a car that steers entirely by software.</itunes:summary>
+    </item>
+    
+    <item>
       <title>Inside the computer, explained from scratch</title>
       <description>The hardware side of the Prague Open Informatics degree, retold with no assumed knowledge. What a processor actually is, why the list of commands it understands is owned by companies, what a free alternative changes, how a chip switches on a light, and the two-player Snake game students build on a circuit board the faculty made themselves.</description>
       <pubDate>Mon, 31 Aug 2026 09:31:48 GMT</pubDate>
