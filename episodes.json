@@ -1,5 +1,14 @@
 [
   {
+    "title": "Inside the computer, explained from scratch",
+    "description": "The hardware side of the Prague Open Informatics degree, retold with no assumed knowledge. What a processor actually is, why the list of commands it understands is owned by companies, what a free alternative changes, how a chip switches on a light, and the two-player Snake game students build on a circuit board the faculty made themselves.",
+    "pub_date": "Mon, 31 Aug 2026 09:31:48 GMT",
+    "filename": "2026-08-31-inside-the-computer-explained.mp3",
+    "file_size": "10292396",
+    "duration": "10:43",
+    "guid": "https://jutudey.github.io/test-rss/episodes/2026-08-31-inside-the-computer-explained.mp3"
+  },
+  {
     "title": "Open Informatics part three: down to the metal",
     "description": "The hardware side of Open Informatics at CTU Prague, taken from the actual lab sheets. The RISC-V based Computer Architectures course every student takes, the faculty-built MZ_APO board and its two-player Snake semester project, then the Internet of Things chain: electromagnetism, FPGA design in VHDL, real network equipment, ARM microcontrollers, and a steer-by-wire capstone on a real-time operating system.",
     "pub_date": "Mon, 31 Aug 2026 08:59:36 GMT",
