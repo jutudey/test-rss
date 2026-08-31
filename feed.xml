@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>SDD ep 1: Why Spec-Driven Development?</title>
+      <description>Chapter 1 of Simon Martinelli's Spec-Driven Development, taught rather than discussed. Balcony architecture, the problem with code-first, what a specification contract is, the three artifacts of the AI Unified Process, the six benefits, and the three standard objections.</description>
+      <pubDate>Mon, 31 Aug 2026 13:03:17 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-08-31-sdd-ep-1-why-spec-driven-development.mp3"
+                 length="13668908"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-08-31-sdd-ep-1-why-spec-driven-development.mp3</guid>
+      <itunes:duration>14:14</itunes:duration>
+      <itunes:summary>Chapter 1 of Simon Martinelli's Spec-Driven Development, taught rather than discussed. Balcony architecture, the problem with code-first, what a specification contract is, the three artifacts of the AI Unified Process, the six benefits, and the three standard objections.</itunes:summary>
+    </item>
+    
+    <item>
       <title>From radio waves to self-steering cars</title>
       <description>Part two of the plain-language hardware series. What a transistor is and why everything is made of them, how students design their own chip on a blank one, why a logically correct circuit still fails, the ladder from blinking a light to a measurement instrument, and what real-time really means - ending on a car that steers entirely by software.</description>
       <pubDate>Mon, 31 Aug 2026 09:32:00 GMT</pubDate>
