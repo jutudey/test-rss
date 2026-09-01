@@ -1,5 +1,14 @@
 [
   {
+    "title": "SDD ep 4: Writing Executable Specifications, part one",
+    "description": "Chapter 4 of Simon Martinelli's Spec-Driven Development, first half. What executable actually means, the three tests for whether a use case qualifies, observable behaviour versus internal machinery, the vague words that hide unmade decisions, a full before-and-after rewrite, and one rule per statement.",
+    "pub_date": "Tue, 01 Sep 2026 12:35:17 GMT",
+    "filename": "2026-09-01-sdd-ep-4-writing-executable-specifications-part-one.mp3",
+    "file_size": "9159596",
+    "duration": "9:32",
+    "guid": "https://jutudey.github.io/test-rss/episodes/2026-09-01-sdd-ep-4-writing-executable-specifications-part-one.mp3"
+  },
+  {
     "title": "SDD ep 3: From Requirements to Specs",
     "description": "Chapter 3 of Simon Martinelli's Spec-Driven Development. Domain storytelling and event storming workshops, the three AI capture steps, human review as the critical quality gate and its five failure modes, a worked requirements catalog and entity model, and the full structure of the Assign Task use case.",
     "pub_date": "Tue, 01 Sep 2026 12:30:24 GMT",
