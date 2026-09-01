@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>SDD ep 3: From Requirements to Specs</title>
+      <description>Chapter 3 of Simon Martinelli's Spec-Driven Development. Domain storytelling and event storming workshops, the three AI capture steps, human review as the critical quality gate and its five failure modes, a worked requirements catalog and entity model, and the full structure of the Assign Task use case.</description>
+      <pubDate>Tue, 01 Sep 2026 12:30:24 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-09-01-sdd-ep-3-from-requirements-to-specs.mp3"
+                 length="12662828"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-09-01-sdd-ep-3-from-requirements-to-specs.mp3</guid>
+      <itunes:duration>13:11</itunes:duration>
+      <itunes:summary>Chapter 3 of Simon Martinelli's Spec-Driven Development. Domain storytelling and event storming workshops, the three AI capture steps, human review as the critical quality gate and its five failure modes, a worked requirements catalog and entity model, and the full structure of the Assign Task use case.</itunes:summary>
+    </item>
+    
+    <item>
       <title>SDD ep 2: The AI Unified Process in a Nutshell</title>
       <description>Chapter 2 of Simon Martinelli's Spec-Driven Development. The five principles, the three core artifacts and their ID schemes, user stories versus system use cases, how everything is stored in Git, the traceability chain, the five-step life cycle, and why the approach only became practical recently.</description>
       <pubDate>Mon, 31 Aug 2026 13:11:24 GMT</pubDate>
