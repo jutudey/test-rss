@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>SDD ep 5: Writing Executable Specifications, part two</title>
+      <description>Chapter 4 of Simon Martinelli's Spec-Driven Development, second half. Writing each part of a use case well: the overview, preconditions, the main success scenario with a weak draft taken apart line by line, alternative flows, postconditions, explicit business rules, deriving acceptance criteria, the just enough principle, and what all of it does for AI.</description>
+      <pubDate>Tue, 01 Sep 2026 12:35:33 GMT</pubDate>
+      <enclosure url="https://jutudey.github.io/test-rss/episodes/2026-09-01-sdd-ep-5-writing-executable-specifications-part-two.mp3"
+                 length="10938284"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jutudey.github.io/test-rss/episodes/2026-09-01-sdd-ep-5-writing-executable-specifications-part-two.mp3</guid>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:summary>Chapter 4 of Simon Martinelli's Spec-Driven Development, second half. Writing each part of a use case well: the overview, preconditions, the main success scenario with a weak draft taken apart line by line, alternative flows, postconditions, explicit business rules, deriving acceptance criteria, the just enough principle, and what all of it does for AI.</itunes:summary>
+    </item>
+    
+    <item>
       <title>SDD ep 4: Writing Executable Specifications, part one</title>
       <description>Chapter 4 of Simon Martinelli's Spec-Driven Development, first half. What executable actually means, the three tests for whether a use case qualifies, observable behaviour versus internal machinery, the vague words that hide unmade decisions, a full before-and-after rewrite, and one rule per statement.</description>
       <pubDate>Tue, 01 Sep 2026 12:35:17 GMT</pubDate>
